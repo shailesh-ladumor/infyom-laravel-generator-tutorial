@@ -11,6 +11,7 @@
 - [Generator Options](#generatorOptions)
 - [Default Users Model CRUD](#defaultUsersModelCRUD)
 - [Subscribe](#subscribe)
+- [Credit](#credit)
 
 ## Installation
 If you have any existing project then you can follow steps given in video. In this tutorial you can learn how to setup adminlte with InfyOm Laravel Generator in few minute.
@@ -63,3 +64,6 @@ If you want to publish default Users model then you can do it with user command.
 Thanks for watching tutorials. Please Like and share videos and do not forget to subscribe channel in youtube for new video update.
 
 [![Watch the video](https://i.ibb.co/CMpWwHJ/00.jpg)](https://youtu.be/V7PCL6HCdXo)
+
+## Credit
+[Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
