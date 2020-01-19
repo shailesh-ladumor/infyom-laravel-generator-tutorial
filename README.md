@@ -1,5 +1,4 @@
-# infyom-laravel-generator-tutorial
-[InfyOm Laravel Generator Tutorial](https://www.youtube.com/playlist?list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) 
+#[InfyOm Laravel Generator Tutorial](https://www.youtube.com/playlist?list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) 
 
 ## Contents
 
