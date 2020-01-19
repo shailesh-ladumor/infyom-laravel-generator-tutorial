@@ -60,6 +60,6 @@ If you want to publish default Users model then you can do it with user command.
 
 ## Subscribe
 
-Thanks for watching a tutorials. Please Like and share a videos and do not forget to subscribe channel in youtube for new video update.
+Thanks for watching tutorials. Please Like and share videos and do not forget to subscribe channel in youtube for new video update.
 
 [![Watch the video](https://i.ibb.co/CMpWwHJ/00.jpg)](https://youtu.be/V7PCL6HCdXo)
