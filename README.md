@@ -54,6 +54,11 @@ here is Part-2
 
 [![Watch the video](https://i.ibb.co/H7xp4Lt/08.jpg)](https://youtu.be/sjEKg-Uo4qg)
 
+
+here is Part-3
+
+[![Watch the video](https://i.ibb.co/Z2jHfJY/youtube-image.jpg)](https://youtu.be/VHMfgGonoOU)
+
 ## Default Users Model CRUD
 If you want to publish default Users model then you can do it with user command. see this tutorial how to publish User CRUD
 
