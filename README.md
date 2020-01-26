@@ -78,4 +78,4 @@ Thanks for watching tutorials. Please Like and share videos and do not forget to
 ## Credit
 [Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
 
-This Tutorials is created by [Shailesh Ladumor](https://github.com/shailesh-ladumor).
+These tutorials are created by Shailesh Ladumor. [Shailesh Ladumor](https://github.com/shailesh-ladumor).
