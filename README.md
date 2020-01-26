@@ -4,12 +4,13 @@
 
 - [Installation](#installation)
 - [Scaffold](#scaffold)
-    - [Scaffold Options](#ScaffoldOptions)
-    - [Scaffold With Datatable](#ScaffoldWithDatatable)
-    - [Generate Only Specified Views](#GenerateOnlySpecifiedViews)
+    - [Scaffold Options](#Scaffold Options)
+    - [Scaffold With Datatable](#Scaffold With Datatable)
+    - [Generate Only Specified Views](#Generate Only Specified Views)
+    - [Advanced Options](#Advanced Options)
 - [Api](#api)
-- [Generator Options](#generatorOptions)
-- [Default Users Model CRUD](#defaultUsersModelCRUD)
+- [Generator Options](#Generator Option)
+- [Default Users Model CRUD](#Default Users Model CRUD)
 - [Subscribe](#subscribe)
 - [Credit](#credit)
 
@@ -59,6 +60,10 @@ here is Part-3
 
 [![Watch the video](https://i.ibb.co/Z2jHfJY/youtube-image.jpg)](https://youtu.be/VHMfgGonoOU)
 
+## Advanced Options
+
+[![Watch the video](https://i.ibb.co/gMntNSy/you-tube-img.jpg)](https://youtu.be/J-yft5gAztQ)
+
 ## Default Users Model CRUD
 If you want to publish default Users model then you can do it with user command. see this tutorial how to publish User CRUD
 
@@ -68,7 +73,9 @@ If you want to publish default Users model then you can do it with user command.
 
 Thanks for watching tutorials. Please Like and share videos and do not forget to subscribe channel in youtube for new video update.
 
-[![Watch the video](https://i.ibb.co/CMpWwHJ/00.jpg)](https://youtu.be/V7PCL6HCdXo)
+[![Watch the video](https://i.ibb.co/G3rscqk/like.png)](https://youtu.be/V7PCL6HCdXo)
 
 ## Credit
 [Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
+
+This Tutorials is created by [Shailesh Ladumor](https://github.com/shailesh-ladumor).
