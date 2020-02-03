@@ -1,4 +1,4 @@
-## InfyOm Laravel Generator [Tutorial](https://www.youtube.com/playlist?list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) 
+## InfyOm Laravel Generator [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 
 ## Contents
 
@@ -73,7 +73,7 @@ If you want to publish default Users model then you can do it with user command.
 
 Thanks for watching tutorials. Please Like and share videos and do not forget to subscribe channel in youtube for new video update.
 
-[![Watch the video](https://i.ibb.co/G3rscqk/like.png)](https://youtu.be/V7PCL6HCdXo)
+[![Watch the video](https://i.ibb.co/G3rscqk/like.png)](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 
 ## Credit
 [Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
