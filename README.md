@@ -1,6 +1,16 @@
-## InfyOm Laravel Generator [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
+## Laravel Package Tutorial [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
+Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1) channel. This will really boost my confidence and encourage me to make more and more videos. 
 
-## Contents
+💫 Like Facebook [Page](https://www.facebook.com/laravelPackageTutorial)
+
+💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
+
+## 📣 Latest Tutorials
+- [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
+- [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
+- [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
+
+## 🎓 Infyom laravel Generator Contents
 
 - [Installation](#installation)
     - [AdminLTE Template](#adminlte-template)
@@ -17,7 +27,6 @@
 - [Default Users Model CRUD](#default-users-model-crud)
 - [Subscribe](#subscribe)
 - [Credit](#credit)
-
 ## Installation
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
 
@@ -82,13 +91,13 @@ If you want to publish default Users model then you can do it with user command.
 
 [![Watch the video](https://i.ibb.co/7pZ94XS/09.jpg)](https://www.youtube.com/watch?v=V7PCL6HCdXo&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
-## Subscribe
+## 🧐 Subscribe
 
 Thanks for watching tutorials. Please Like and share videos and do not forget to subscribe channel in youtube for new video update.
 
 [![Watch the video](https://i.ibb.co/G3rscqk/like.png)](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 
-## Credit
+## 💝 Credit
 [Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
 
 These tutorials are created by Shailesh Ladumor. [Shailesh Ladumor](https://github.com/shailesh-ladumor).
