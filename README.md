@@ -6,6 +6,10 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [Laravel Localization with InfyOm Generator](https://youtu.be/1Kt2NF6e5Bk)
+- [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
+
+## 🎓 Laravel Tutorials (other packages)
 - [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
 - [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
 - [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
@@ -22,11 +26,13 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
     - [Advanced Options](#advanced-options)
 - [Api](#api)
 - [Generator Options](#generator-options)
+- [Locale Option](#locale-option)
 - [Fields Input Guide](#fields-input-guide)
 - [Generator Commands](#generator-commands)
 - [Default Users Model CRUD](#default-users-model-crud)
 - [Subscribe](#subscribe)
 - [Credit](#credit)
+
 ## Installation
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
 
@@ -79,6 +85,9 @@ here is Part-3
 ## Advanced Options
 
 [![Watch the video](https://i.ibb.co/gMntNSy/you-tube-img.jpg)](https://www.youtube.com/watch?v=J-yft5gAztQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+## Locale Option
+
+[![Watch the video](https://i.ibb.co/bmnDtKq/title-2.jpg)](https://www.youtube.com/watch?v=1Kt2NF6e5Bk&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Fields Input Guide
 [![Watch the video](https://i.ibb.co/zn1srxS/you-tube-image.jpg)](https://www.youtube.com/watch?v=Wuchq7VK5BE&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
