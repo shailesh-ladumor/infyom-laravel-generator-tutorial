@@ -6,6 +6,8 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
+- [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
 - [Laravel Localization with InfyOm Generator](https://youtu.be/1Kt2NF6e5Bk)
 - [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
 
