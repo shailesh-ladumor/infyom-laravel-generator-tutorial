@@ -39,7 +39,8 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
 
 #### AdminLTE Template
-[![Watch the video](https://i.ibb.co/F0hL4gB/01.jpg)](https://www.youtube.com/watch?v=Q8CpX4MP1sA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+[<img src="https://i.ibb.co/F0hL4gB/01.jpg" height="125">](https://www.youtube.com/watch?v=Q8CpX4MP1sA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 #### CoreUI Template
 [![Watch the video](https://i.ibb.co/bXKktcX/you-tube-img.jpg)](https://www.youtube.com/watch?v=-V6RUmAXMEA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
