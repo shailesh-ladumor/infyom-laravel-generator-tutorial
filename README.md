@@ -40,68 +40,69 @@ If you have any existing project then you can follow steps given in videos. In t
 
 #### AdminLTE Template
 
-[<img src="https://i.ibb.co/F0hL4gB/01.jpg" height="125">](https://www.youtube.com/watch?v=Q8CpX4MP1sA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/F0hL4gB/01.jpg" width="250">](https://www.youtube.com/watch?v=Q8CpX4MP1sA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 #### CoreUI Template
-[![Watch the video](https://i.ibb.co/bXKktcX/you-tube-img.jpg)](https://www.youtube.com/watch?v=-V6RUmAXMEA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+[<img src="https://i.ibb.co/bXKktcX/you-tube-img.jpg" width="250">](https://www.youtube.com/watch?v=-V6RUmAXMEA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Scaffold
-You can Generate a scaffold (CRUD) quickly via InfyOm laravel Generator. here is tutorial how to generate scaffold(CRUD) 
-
-[![Watch the video](https://i.ibb.co/HV0YGPW/02.jpg)](https://www.youtube.com/watch?v=g6Rp98_0inQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+You can Generate a scaffold (CRUD) quickly via InfyOm laravel Generator. here is tutorial how to generate scaffold(CRUD)
+ 
+[<img src="https://i.ibb.co/HV0YGPW/02.jpg" width="250">](https://www.youtube.com/watch?v=g6Rp98_0inQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Scaffold Options
 The Generator also has the ability to generate CRUD file with lots of options. you can learn which options and validation support provide by generator in this session.
 
-[![Watch the video](https://i.ibb.co/6H9wWsY/04.jpg)](https://www.youtube.com/watch?v=8VuEzoz42BQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/6H9wWsY/04.jpg" width="250">](https://www.youtube.com/watch?v=8VuEzoz42BQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Scaffold With Datatable
 The Generator also has the ability to generate CRUD file with datatables. To enable datatables option, you need to install yajra/laravel-datatables package. You can find full installation steps in this session..
 
-[![Watch the video](https://i.ibb.co/VQ4BsnW/05.jpg)](https://www.youtube.com/watch?v=YC0YXrAF4SA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/VQ4BsnW/05.jpg" width="250">](https://www.youtube.com/watch?v=YC0YXrAF4SA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Generate Only Specified Views
 While generating views, if you don't want to generate all views again. Then you can pass an option --views. watch this video for example.
 
-[![Watch the video](https://i.ibb.co/QrmC0m4/06.jpg)](https://www.youtube.com/watch?v=IyWpguOGGVw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/QrmC0m4/06.jpg" width="250">](https://www.youtube.com/watch?v=IyWpguOGGVw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Api
 You can Generate a scaffold (CRUD) quickly via InfyOm laravel Generator. here is tutorial how to generate scaffold(CRUD) 
 
-[![Watch the video](https://i.ibb.co/xXVM7Qp/03.jpg)](https://www.youtube.com/watch?v=W58PIXo0C40&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/xXVM7Qp/03.jpg" width="250">](https://www.youtube.com/watch?v=W58PIXo0C40&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Generator Options
 InfyOm laravel Generator provide lots of Options. 
 
 here is Part-1
 
-[![Watch the video](https://i.ibb.co/cLpqtzW/07.jpg)](https://www.youtube.com/watch?v=RpRhHMr1y54&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/cLpqtzW/07.jpgg" width="250">](https://www.youtube.com/watch?v=RpRhHMr1y54&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 here is Part-2
 
-[![Watch the video](https://i.ibb.co/H7xp4Lt/08.jpg)](https://www.youtube.com/watch?v=sjEKg-Uo4qg&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/H7xp4Lt/08.jpg" width="250">](https://www.youtube.com/watch?v=sjEKg-Uo4qg&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 here is Part-3
 
-[![Watch the video](https://i.ibb.co/Z2jHfJY/youtube-image.jpg)](https://www.youtube.com/watch?v=VHMfgGonoOU&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/Z2jHfJY/youtube-image.jpg" width="250">](https://www.youtube.com/watch?v=VHMfgGonoOU&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Advanced Options
 
-[![Watch the video](https://i.ibb.co/gMntNSy/you-tube-img.jpg)](https://www.youtube.com/watch?v=J-yft5gAztQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/gMntNSy/you-tube-img.jpg" width="250">](https://www.youtube.com/watch?v=J-yft5gAztQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 ## Locale Option
 
-[![Watch the video](https://i.ibb.co/bmnDtKq/title-2.jpg)](https://www.youtube.com/watch?v=1Kt2NF6e5Bk&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/bmnDtKq/title-2.jpg" width="250">](https://www.youtube.com/watch?v=1Kt2NF6e5Bk&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Fields Input Guide
-[![Watch the video](https://i.ibb.co/zn1srxS/you-tube-image.jpg)](https://www.youtube.com/watch?v=Wuchq7VK5BE&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/zn1srxS/you-tube-image.jpg" width="250">](https://www.youtube.com/watch?v=Wuchq7VK5BE&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Generator Commands
-[![Watch the video](https://i.ibb.co/dkgJwCq/youtube-img.jpg)](https://www.youtube.com/watch?v=nhwzz48dAcs&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/dkgJwCq/youtube-img.jpg" width="250">](https://www.youtube.com/watch?v=nhwzz48dAcs&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Default Users Model CRUD
 If you want to publish default Users model then you can do it with user command. see this tutorial how to publish User CRUD
 
-[![Watch the video](https://i.ibb.co/7pZ94XS/09.jpg)](https://www.youtube.com/watch?v=V7PCL6HCdXo&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+[<img src="https://i.ibb.co/7pZ94XS/09.jpg" width="250">](https://www.youtube.com/watch?v=V7PCL6HCdXo&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## 🧐 Subscribe
 
