@@ -6,15 +6,16 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to Display Image in Datatable using InfyOm Laravel Generator](https://youtu.be/2pPvD7xwCq4)
+- [How to display relationship data into Yajra DataTables with InfyOm Laravel Generator](https://youtu.be/sJrDpFl3Pcw)
 - [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
 - [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
-- [Laravel Localization with InfyOm Generator](https://youtu.be/1Kt2NF6e5Bk)
-- [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
 
 ## 🎓 Laravel Tutorials (other packages)
 - [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
 - [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
 - [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
+- [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
 
 ## 🎓 Infyom laravel Generator Contents
 
