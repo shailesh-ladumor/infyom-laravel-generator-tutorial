@@ -6,6 +6,7 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [Multi Column Search box in Datatables with InfyOm Laravel Generator](https://youtu.be/UCyoZ0To-ik)
 - [How to Display Image in Datatable using InfyOm Laravel Generator](https://youtu.be/2pPvD7xwCq4)
 - [How to display relationship data into Yajra DataTables with InfyOm Laravel Generator](https://youtu.be/sJrDpFl3Pcw)
 - [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
