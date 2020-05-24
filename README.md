@@ -6,14 +6,14 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
 - [How to Customize Template in InfyOm Laravel Generator](https://youtu.be/A3RjmWFcGWs)
 - [Multi Column Search box in Datatables with InfyOm Laravel Generator](https://youtu.be/UCyoZ0To-ik)
 - [How to Display Image in Datatable using InfyOm Laravel Generator](https://youtu.be/2pPvD7xwCq4)
-- [How to display relationship data into Yajra DataTables with InfyOm Laravel Generator](https://youtu.be/sJrDpFl3Pcw)
-- [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
-- [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
 
 ## 🎓 Laravel Tutorials (other packages)
+- [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
+- [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
 - [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
 - [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
 - [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
@@ -27,6 +27,7 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 - [Scaffold](#scaffold)
     - [Scaffold Options](#scaffold-options)
     - [Scaffold With Datatable](#scaffold-with-datatable)
+        - [How to display relationship data into Datatable](#how-to-display-relationship-data-into-datatable)
     - [Generate Only Specified Views](#generate-only-specified-views)
     - [Advanced Options](#advanced-options)
 - [Api](#api)
@@ -35,6 +36,7 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 - [Fields Input Guide](#fields-input-guide)
 - [Generator Commands](#generator-commands)
 - [Default Users Model CRUD](#default-users-model-crud)
+- [File Upload](#file-upload)
 - [Subscribe](#subscribe)
 - [Credit](#credit)
 
@@ -42,7 +44,9 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
 
 #### AdminLTE Template
+Laravel 7 (Latest Tutorial) 
 
+Laravel (Old Tutorial)
 [<img src="https://i.ibb.co/F0hL4gB/01.jpg" width="250">](https://www.youtube.com/watch?v=Q8CpX4MP1sA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 #### CoreUI Template
@@ -63,6 +67,11 @@ The Generator also has the ability to generate CRUD file with lots of options. y
 The Generator also has the ability to generate CRUD file with datatables. To enable datatables option, you need to install yajra/laravel-datatables package. You can find full installation steps in this session..
 
 [<img src="https://i.ibb.co/VQ4BsnW/05.jpg" width="250">](https://www.youtube.com/watch?v=YC0YXrAF4SA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+## How to display relationship data into Datatable
+Click here for watch How to display relationship data into Yajra DataTables with InfyOm Laravel Generator
+
+[<img src="https://img.youtube.com/vi/sJrDpFl3Pcw/0.jpg" width="250">](https://www.youtube.com/watch?v=sJrDpFl3Pcw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Generate Only Specified Views
 While generating views, if you don't want to generate all views again. Then you can pass an option --views. watch this video for example.
@@ -102,6 +111,9 @@ here is Part-3
 ## Generator Commands
 [<img src="https://i.ibb.co/dkgJwCq/youtube-img.jpg" width="250">](https://www.youtube.com/watch?v=nhwzz48dAcs&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
+## File Upload
+[<img src="https://img.youtube.com/vi/Q6iL3u4IZgs/0.jpg" width="250">](https://www.youtube.com/watch?v=Q6iL3u4IZgs&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
 ## Default Users Model CRUD
 If you want to publish default Users model then you can do it with user command. see this tutorial how to publish User CRUD
 
@@ -116,4 +128,4 @@ Thanks for watching tutorials. Please Like and share videos and do not forget to
 ## 💝 Credit
 [Infyom Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) is great tool and support multiple themes. Special Thanks to [InfyOmLabs](https://labs.infyom.com/) bring great laravel generator to us.
 
-These tutorials are created by Shailesh Ladumor. [Shailesh Ladumor](https://github.com/shailesh-ladumor).
+These tutorials are created by [Shailesh Ladumor](https://github.com/shailesh-ladumor).
