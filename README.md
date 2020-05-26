@@ -45,6 +45,7 @@ If you have any existing project then you can follow steps given in videos. In t
 
 #### AdminLTE Template
 Latest with Laravel 7
+
 [<img src="https://img.youtube.com/vi/8Fa7Ji4lDyI/0.jpg" width="250">](https://www.youtube.com/watch?v=8Fa7Ji4lDyI&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 Old Tutorial 
