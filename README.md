@@ -1,4 +1,4 @@
-# Laravel Package Tutorial [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
+# Laravel Package [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 ## Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1) channel. This will really boost my confidence and encourage me to make more and more videos. 
 
 💫 Like Facebook [Page](https://www.facebook.com/laravelPackageTutorial)
