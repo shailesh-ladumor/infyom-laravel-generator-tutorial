@@ -6,6 +6,7 @@ Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCj
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to implement Swagger Docs with Infyom Gnerator in laravel](https://youtu.be/5ILtqB1aR9g)
 - [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
 - [How to Customize Template in InfyOm Laravel Generator](https://youtu.be/A3RjmWFcGWs)
 - [Multi Column Search box in Datatables with InfyOm Laravel Generator](https://youtu.be/UCyoZ0To-ik)
