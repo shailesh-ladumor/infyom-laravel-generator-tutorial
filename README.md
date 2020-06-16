@@ -6,14 +6,15 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+
+- [Laravel Microscope | Find Bugs Before They Bite](https://youtu.be/aEkiE30wNKk)
+- [How to create postman collaction](https://youtu.be/TaFp7FVul0I)
+- [How to implement JWT token Swagger Docs in laravel](https://youtu.be/ytXsvPR0IBA)
 - [How to implement JWT token in laravel](https://youtu.be/VtAxYez4ZdQ)
 - [How to implement Swagger Docs with Infyom Gnerator in laravel](https://youtu.be/5ILtqB1aR9g)
-- [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
-- [How to Customize Template in InfyOm Laravel Generator](https://youtu.be/A3RjmWFcGWs)
-- [Multi Column Search box in Datatables with InfyOm Laravel Generator](https://youtu.be/UCyoZ0To-ik)
-- [How to Display Image in Datatable using InfyOm Laravel Generator](https://youtu.be/2pPvD7xwCq4)
 
 ## 🎓 Laravel Tutorials (other packages)
+- [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
 - [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
 - [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
 - [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
@@ -30,10 +31,13 @@
     - [Scaffold Options](#scaffold-options)
     - [Scaffold With Datatable](#scaffold-with-datatable)
         - [How to display relationship data into Datatable](#how-to-display-relationship-data-into-datatable)
+        - [How to Display Image in Datatable using InfyOm Laravel Generator](#how-to-display-image-in-datatable-using-infyOm-laravel-generator)
+        - [Multi Column Search box in Datatables with InfyOm Laravel Generator](#multi-column-search-box-in-datatables-with-infyOm-laravel-generator)
     - [Generate Only Specified Views](#generate-only-specified-views)
     - [Advanced Options](#advanced-options)
 - [Api](#api)
 - [Generator Options](#generator-options)
+- [How to Customize Template in InfyOm Laravel Generator](#how-to-customize-template-in-infyOm-laravel-generator)
 - [Locale Option](#locale-option)
 - [Fields Input Guide](#fields-input-guide)
 - [Generator Commands](#generator-commands)
@@ -77,6 +81,18 @@ The Generator also has the ability to generate CRUD file with datatables. To ena
 Click here for watch How to display relationship data into Yajra DataTables with InfyOm Laravel Generator
 
 [<img src="https://img.youtube.com/vi/sJrDpFl3Pcw/0.jpg" width="250">](https://www.youtube.com/watch?v=sJrDpFl3Pcw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+## How to Display Image in Datatable using InfyOm Laravel Generator
+
+[<img src="https://img.youtube.com/vi/2pPvD7xwCq4/0.jpg" width="250">](https://www.youtube.com/watch?v=2pPvD7xwCq4&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+## Multi Column Search box in Datatables with InfyOm Laravel Generator
+
+[<img src="https://img.youtube.com/vi/UCyoZ0To-ik/0.jpg" width="250">](https://www.youtube.com/watch?v=UCyoZ0To-ik&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+
+## How to Customize Template in InfyOm Laravel Generator
+
+[<img src="https://img.youtube.com/vi/A3RjmWFcGWs/0.jpg" width="250">](https://www.youtube.com/watch?v=A3RjmWFcGWs&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Generate Only Specified Views
 While generating views, if you don't want to generate all views again. Then you can pass an option --views. watch this video for example.
