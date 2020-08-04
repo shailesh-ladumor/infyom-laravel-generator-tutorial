@@ -6,21 +6,13 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
-
+- [How to optimize the code and improve performance of the laravel Application using laravel mix](https://youtu.be/ajZvBmCxfaY)
+- [How to create Apps and Segment on one signal  using ladumor One signal laravel wrapper](https://youtu.be/mxiEZ4H2cgY)
 - [Laravel Microscope | Find Bugs Before They Bite](https://youtu.be/aEkiE30wNKk)
 - [How to create postman collaction](https://youtu.be/TaFp7FVul0I)
 - [How to implement JWT token Swagger Docs in laravel](https://youtu.be/ytXsvPR0IBA)
 - [How to implement JWT token in laravel](https://youtu.be/VtAxYez4ZdQ)
 - [How to implement Swagger Docs with Infyom Gnerator in laravel](https://youtu.be/5ILtqB1aR9g)
-
-## 🎓 Laravel Tutorials (other packages)
-- [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
-- [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
-- [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
-- [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
-- [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
-- [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
-- [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
 
 ## 🎓 Infyom laravel Generator Contents
 
@@ -45,6 +37,17 @@
 - [File Upload](#file-upload)
 - [Subscribe](#subscribe)
 - [Credit](#credit)
+
+## 🎓 Laravel Tutorials (other packages)
+- [How to implement Spatie laravel permissions in laravel](https://youtu.be/hlGu2pa1bdU)
+- [File Upload using image intervention and InfyOm Generator](https://youtu.be/Q6iL3u4IZgs)
+- [How to adjusting images using image intervention](https://youtu.be/_bRgg5cndOo)
+- [Resize image with Image Intervention](https://youtu.be/NowyuDKwj_I)
+- [CoreUI React theme setup in laravel](https://youtu.be/HVVpbpNUJ8M)
+- [OneSignal With Laravel](https://youtu.be/c1W7unOw3s4)
+- [How to use & setup laravel Airlock](https://youtu.be/_JoNBxR_m-4)
+- [What's new in Laravel 7](https://youtu.be/EpWkKni9X6g)
+- [Split window in CmDer Terminal](https://youtu.be/C0vwBXoWhms)
 
 ## Installation
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
