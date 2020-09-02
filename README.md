@@ -6,6 +6,8 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to Install Adminlte3 into laravel](https://youtu.be/jA7hr2gE9yc)
+- [How to setup Jquery Datatable into laravel](https://youtu.be/a2ZTvWsC_yc)
 - [How to optimize the code and improve performance of the laravel Application using laravel mix](https://youtu.be/ajZvBmCxfaY)
 - [How to create Apps and Segment on one signal  using ladumor One signal laravel wrapper](https://youtu.be/mxiEZ4H2cgY)
 - [Laravel Microscope | Find Bugs Before They Bite](https://youtu.be/aEkiE30wNKk)
@@ -51,6 +53,9 @@
 
 ## Installation
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
+
+#### AdminLTE3 with Laravel 7
+[<img src="https://img.youtube.com/vi/jA7hr2gE9yc/0.jpg" width="250">](https://youtu.be/jA7hr2gE9yc)
 
 #### AdminLTE Template
 Latest with Laravel 7
