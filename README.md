@@ -6,6 +6,8 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to Install Spatie Media Library into laravel](https://youtu.be/E7dq7KMgQn0)
+- [How to Install CoreUI3 into laravel](https://youtu.be/AGkVhgvArd8)
 - [How to Install Adminlte3 into laravel](https://youtu.be/jA7hr2gE9yc)
 - [How to setup Jquery Datatable into laravel](https://youtu.be/a2ZTvWsC_yc)
 - [How to optimize the code and improve performance of the laravel Application using laravel mix](https://youtu.be/ajZvBmCxfaY)
