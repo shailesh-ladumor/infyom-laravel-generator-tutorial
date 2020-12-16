@@ -60,11 +60,11 @@
 ## Installation
 If you have any existing project then you can follow steps given in videos. In these tutorials you can learn how to setup adminlte and CoreUI with InfyOm Laravel Generator in few minute.
 
-#### AdminLTE3 with Laravel 7
+#### AdminLTE3 with Laravel 7 (Laravel generator does not suported)
 [<img src="https://img.youtube.com/vi/jA7hr2gE9yc/0.jpg" width="250">](https://youtu.be/jA7hr2gE9yc)
 
 #### AdminLTE Template
-Latest with Laravel 7
+Latest with Laravel 7 (Laravel generator suported)
 
 [<img src="https://img.youtube.com/vi/8Fa7Ji4lDyI/0.jpg" width="250">](https://www.youtube.com/watch?v=8Fa7Ji4lDyI&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
