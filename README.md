@@ -6,6 +6,10 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to use AdminLTE theme with Laravel Fortify](https://youtu.be/2lHFnYLTHSI)
+- [How to DELETE record from Datatable using Ajax](https://youtu.be/4Q0yG_Sm_dw)
+- [How to render server side Datatable in Laravel](https://youtu.be/uqllJ0E9pX4)
+- [How to create Media collection using Spatie Media Library in laravel](https://youtu.be/LLVd3DML_84)
 - [How to Install Spatie Media Library into laravel](https://youtu.be/E7dq7KMgQn0)
 - [How to Install CoreUI3 into laravel](https://youtu.be/AGkVhgvArd8)
 - [How to Install Adminlte3 into laravel](https://youtu.be/jA7hr2gE9yc)
