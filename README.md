@@ -68,12 +68,10 @@ The Generator also has the ability to generate CRUD file with lots of options. y
 
 ## Scaffold With Datatable
 The Generator also has the ability to generate CRUD file with datatables. To enable datatables option, you need to install yajra/laravel-datatables package.
- Datatable | relationship data into Datatable | Display Image in Datatable | Multi Column Search box in Datatables
---- | --- | --- | ---
-You can find full installation steps in this session. | Click here for watch How to display relationship data into Yajra DataTables with InfyOm Laravel Generator| How to Display Image in Datatable using InfyOm Laravel Generator | Multi Column Search box in Datatables with InfyOm Laravel Generator
---- | --- | --- | ---
 
-[<img src="https://img.youtube.com/vi/YC0YXrAF4SA/0.jpg" width="250">](https://www.youtube.com/watch?v=YC0YXrAF4SA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/sJrDpFl3Pcw/0.jpg" width="250">](https://www.youtube.com/watch?v=sJrDpFl3Pcw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/2pPvD7xwCq4/0.jpg" width="250">](https://www.youtube.com/watch?v=2pPvD7xwCq4&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/UCyoZ0To-ik/0.jpg" width="250">](https://www.youtube.com/watch?v=UCyoZ0To-ik&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+ Datatable | Relationship data into Datatable | Display Image in Datatable | Multi Column Search box in Datatables
+---| ---|---|---
+[<img src="https://img.youtube.com/vi/YC0YXrAF4SA/0.jpg" width="200">](https://www.youtube.com/watch?v=YC0YXrAF4SA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/sJrDpFl3Pcw/0.jpg" width="200">](https://www.youtube.com/watch?v=sJrDpFl3Pcw&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/2pPvD7xwCq4/0.jpg" width="200">](https://www.youtube.com/watch?v=2pPvD7xwCq4&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/UCyoZ0To-ik/0.jpg" width="200">](https://www.youtube.com/watch?v=UCyoZ0To-ik&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## How to Customize Template in InfyOm Laravel Generator
 
@@ -92,16 +90,9 @@ You can Generate a scaffold (CRUD) quickly via InfyOm laravel Generator. here is
 ## Generator Options
 InfyOm laravel Generator provide lots of Options. 
 
-Part-1 | Part-2 | Part-3 
---- | --- |---
-[<img src="https://img.youtube.com/vi/RpRhHMr1y54/0.jpg" width="250">](https://www.youtube.com/watch?v=RpRhHMr1y54&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/sjEKg-Uo4qg/0.jpg" width="250">](https://www.youtube.com/watch?v=sjEKg-Uo4qg&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/VHMfgGonoOU/0.jpg" width="250">](https://www.youtube.com/watch?v=VHMfgGonoOU&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
-
-## Advanced Options
-
-[<img src="https://img.youtube.com/vi/J-yft5gAztQ/0.jpg" width="250">](https://www.youtube.com/watch?v=J-yft5gAztQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
-## Locale Option
-
-[<img src="https://img.youtube.com/vi/1Kt2NF6e5Bk/0.jpg" width="250">](https://www.youtube.com/watch?v=1Kt2NF6e5Bk&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
+Part-1 | Part-2 | Part-3 | Advanced | Locale
+--- | --- |--- |---|---
+[<img src="https://img.youtube.com/vi/RpRhHMr1y54/0.jpg" width="175">](https://www.youtube.com/watch?v=RpRhHMr1y54&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/sjEKg-Uo4qg/0.jpg" width="175">](https://www.youtube.com/watch?v=sjEKg-Uo4qg&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/VHMfgGonoOU/0.jpg" width="175">](https://www.youtube.com/watch?v=VHMfgGonoOU&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/J-yft5gAztQ/0.jpg" width="175">](https://www.youtube.com/watch?v=J-yft5gAztQ&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/1Kt2NF6e5Bk/0.jpg" width="175">](https://www.youtube.com/watch?v=1Kt2NF6e5Bk&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
 ## Fields Input Guide
 [<img src="https://img.youtube.com/vi/Wuchq7VK5BE/0.jpg" width="250">](https://www.youtube.com/watch?v=Wuchq7VK5BE&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
