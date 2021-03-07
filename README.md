@@ -9,6 +9,12 @@
 💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
 
 ## 📣 Latest Tutorials
+- [How to setup and enable https with SSL on wamp server virtual host](https://youtu.be/D5IqDcHyXSQ)
+- [How to Setup a Virtual Host Using Wamp Server](https://youtu.be/PoBvZZmt9Hs)
+- [Data Binding in Laravel Livewire](https://youtu.be/ZYv9T0O4JOw)
+- [How to Use select2](https://youtu.be/gTNQOxvuUv0)
+- [Click Event in Livewire | wire:click](https://youtu.be/iFbCOwo7Ihc)
+- [How to install Laravel livewire](https://youtu.be/3cwdeSYjXTk)
 - [How to Setup Global Git Ignore](https://youtu.be/3LYBdd3RGKs)
 - [How to debug Rest APIs in Laravel | Laravel API Debugger](https://youtu.be/kEwhtMEOibs)
 - [How to setup stisla theme In Laravel](https://youtu.be/6cxIGi-Ff8o)
