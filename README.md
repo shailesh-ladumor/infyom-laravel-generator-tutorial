@@ -1,26 +1,31 @@
-[<img src="https://infyom.com/static/laravel-package-5e32d3de86b4b0cd781e376ea9744cc7.png" alt="Laravel Package Tutorial">](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
+[<img src="https://infyom.com/static/laravel-package-a308bdbea163948d3c82afda149f91ab.png" alt="Laravel Package Tutorial">](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
    
 # Laravel Package [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 ## Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1) channel. This will really boost my confidence and encourage me to make more and more videos. 
 
+💫  [Follow Instagram](https://www.instagram.com/laravelpackagetutorial)
 
-💫 Like Facebook [Page](https://www.facebook.com/laravelPackageTutorial)
+💫  [Like Facebook Page](https://www.facebook.com/laravelPackageTutorial)
 
-💫 Join Facebook [Group](https://www.facebook.com/groups/576525202944819)
+💫  [Join Facebook Group](https://www.facebook.com/groups/576525202944819)
+
 
 ## 📣 Latest Tutorials
+- [How to create Complex headers in Datatable](https://youtu.be/A3-p3psej_w)
+- [How to Generate a QR Code in Laravel](https://youtu.be/y_OHy5qNJlQ)
+- [How to setup Imagick plugin in wamp server](https://youtu.be/bxI0qCW73AI)
+- [How to Generate PDF from html in Laravel](https://youtu.be/Gz8Wi_i2Szk)
+- [how to use pagination with livewire in laravel](https://youtu.be/sTuMmCfKbi0)
+- [How to generate sitemap in laravel](https://youtu.be/6M4OsMcIgpI)
+- [How to user route method in javascript file in laravel](https://youtu.be/NiAwFKv1oog)
+- [How to setup Passwordless login in Laravel](https://youtu.be/EIksYsX05Tg)
+- [How to Load fonts in scss](https://youtu.be/XDqOs0-Zttg)
+- [How to Customize Bootstrap](https://youtu.be/SOIIl33nthw)
+- [Searching Eloquent  with Laravel livewire](https://youtu.be/lVVXzqstyY8)
 - [How to setup and enable https with SSL on wamp server virtual host](https://youtu.be/D5IqDcHyXSQ)
 - [How to Setup a Virtual Host Using Wamp Server](https://youtu.be/PoBvZZmt9Hs)
 - [Data Binding in Laravel Livewire](https://youtu.be/ZYv9T0O4JOw)
 - [How to Use select2](https://youtu.be/gTNQOxvuUv0)
-- [Click Event in Livewire | wire:click](https://youtu.be/iFbCOwo7Ihc)
-- [How to install Laravel livewire](https://youtu.be/3cwdeSYjXTk)
-- [How to Setup Global Git Ignore](https://youtu.be/3LYBdd3RGKs)
-- [How to debug Rest APIs in Laravel | Laravel API Debugger](https://youtu.be/kEwhtMEOibs)
-- [How to setup stisla theme In Laravel](https://youtu.be/6cxIGi-Ff8o)
-- [How to setup Stisla theme In Laravel Fortify](https://youtu.be/DjK9jPDdcR0)
-- [How to setup Stisla Template with Infyom Generator In Laravel](https://youtu.be/6OTZxbjV1NY)
-- [Stisla Templates with JQuery Datatables using InfyOm Laravel generator](https://youtu.be/rfHrXHB86o8)
 
 ## 🎓 Laravel Packages Tutorials
 ### 🎓 Laravel One signal
@@ -59,6 +64,11 @@ CoreUI with Generator|  CoreUI 3 Preset
 --- | ---
 [<img src="https://img.youtube.com/vi/-V6RUmAXMEA/0.jpg" width="250">](https://www.youtube.com/watch?v=-V6RUmAXMEA&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/AGkVhgvArd8/0.jpg" width="250">](https://www.youtube.com/watch?v=AGkVhgvArd8&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg)
 
+#### Stisla Template
+Stisla With Gnerator |  Stisla Preset  | With Laravel Fortify | JQuery Datatablesl
+--- | --- |--- |---
+[<img src="https://img.youtube.com/vi/6OTZxbjV1NY/0.jpg" width="250">](https://youtu.be/6OTZxbjV1NY)|[<img src="https://img.youtube.com/vi/6cxIGi-Ff8o/0.jpg" width="250">](https://youtu.be/6cxIGi-Ff8o)|  [<img src="https://img.youtube.com/vi/DjK9jPDdcR0/0.jpg" width="250">](https://www.youtube.com/watch?v=DjK9jPDdcR0&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) | [<img src="https://img.youtube.com/vi/rfHrXHB86o8/0.jpg" width="250">](https://www.youtube.com/watch?v=rfHrXHB86o8&list=PL0wCC44AhrC3JHzcB5qmjYkm70OaoKegg) 
+ 
 ## Scaffold and it's Options
  
 Scaffold | Options | Generate Only Specified Views
@@ -120,6 +130,10 @@ If you want to publish default Users model then you can do it with user command.
 - [How to optimize the code and improve performance of the laravel Application using laravel mix](https://youtu.be/ajZvBmCxfaY)
 - [Laravel Microscope | Find Bugs Before They Bite](https://youtu.be/aEkiE30wNKk)
 - [How to implement JWT token in laravel](https://youtu.be/VtAxYez4ZdQ)
+- [Click Event in Livewire | wire:click](https://youtu.be/iFbCOwo7Ihc)
+- [How to install Laravel livewire](https://youtu.be/3cwdeSYjXTk)
+- [How to Setup Global Git Ignore](https://youtu.be/3LYBdd3RGKs)
+- [How to debug Rest APIs in Laravel | Laravel API Debugger](https://youtu.be/kEwhtMEOibs)
 
 ## 🧐 Subscribe
 
