@@ -1,4 +1,4 @@
-[<img src="https://infyom.com/static/laravel-package-a308bdbea163948d3c82afda149f91ab.png" alt="Laravel Package Tutorial">](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
+<a href="https://www.buymeacoffee.com/ladumor"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ladumor&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
    
 # Laravel Package [Tutorial](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1)
 ## Please Like 👍 the video and [Subscribe](https://www.youtube.com/channel/UCuCjzuwBqMqFdh0EU-UwQ-w?sub_confirmation=1) channel. This will really boost my confidence and encourage me to make more and more videos. 
